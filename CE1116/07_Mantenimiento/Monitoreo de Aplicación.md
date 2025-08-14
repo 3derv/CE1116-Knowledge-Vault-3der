@@ -7,7 +7,7 @@ Tema: monitoreo
 ---
 
 ## 📚 Idea/Concepto 
-
+El monitoreo de aplicación es el proceso de supervisar el rendimiento, la disponibilidad y el comportamiento de una aplicación en tiempo real para detectar errores, cuellos de botella y garantizar su correcto funcionamiento.
 
 ## 📌 Puntos Claves (Opcional)
 - 

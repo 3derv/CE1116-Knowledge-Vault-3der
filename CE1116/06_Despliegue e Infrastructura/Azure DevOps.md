@@ -8,7 +8,7 @@ Tema: control-ciclo-vida-producto
 
 
 ## 📚 Idea/Concepto 
-
+Azure DevOps es un conjunto de herramientas de Microsoft para gestionar el ciclo de vida del desarrollo de software, que incluye planificación, control de versiones, integración continua, entrega continua y seguimiento de proyectos.
 
 ## 📌 Puntos Claves (Opcional)
 - 

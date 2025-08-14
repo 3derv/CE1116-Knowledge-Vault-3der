@@ -8,7 +8,7 @@ Tema: pruebas-automatizadas
 
 
 ## 📚 Idea/Concepto 
-
+Las pruebas unitarias son pruebas que verifican de manera individual cada módulo, función o componente del software para asegurar que funcionan correctamente de forma aislada.
 
 ## 📌 Puntos Claves (Opcional)
 - 
